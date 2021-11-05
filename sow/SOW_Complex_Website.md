@@ -10,7 +10,7 @@ This Scope of Work covers the tasks related to planning, design, development, co
 
 * Estimated timeframe:  6 to 8 weeks
 
-Theme: 
+Theme: <theme name> 
 
 Plugins:
 
